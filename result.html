@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajándék</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="result-body">
+
+    <div class="content-card">
+        
+        <div class="image-container" style="display: flex; align-items: center; justify-content: center; position: relative;">
+            <a class="prev-btn" onclick="changeSlide(-1)">&#10094;</a> 
+            
+            <img id="resultImage" src="" alt="Kép" style="max-width: 100%; max-height: 60vh; display: block;">
+            
+            <video id="resultVideo" controls style="max-width: 100%; max-height: 60vh; display: none;">
+                <source src="" type="video/mp4">
+                A böngésződ nem támogatja a videót.
+            </video>
+
+            <a class="next-btn" onclick="changeSlide(1)">&#10095;</a> 
+        </div>
+
+        <h2 id="resultTitle">Cím</h2>
+        <div id="image-counter" style="display:none; color: #888; font-size: 0.9em; margin-bottom: 10px;">1 / 17</div>
+        <p id="resultText">Betöltés...</p>
+
+        <a href="index.html" class="back-btn">Új keresés</a>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        window.onload = loadResult;
+    </script>
+</body>
+</html>
