@@ -15,7 +15,7 @@
     /* IDETEDD MAJD A KÉPEDET:
        Ha beteszed a 'background.jpg'-t az images mappába, 
        akkor automatikusan az jelenik meg a szín helyett. */
-    background-image: url('photo-1445543949571-ffc3e0e2f55e.jpg');
+    background-image: url('francia/hatterkep.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ button:hover {
 .result-body {
     background-color: #2b1d1d; /* Sötét háttér */
     /* Ide is beteheted ugyanazt a background.jpg-t */
-    background-image: url('photo-1445543949571-ffc3e0e2f55e.jpg');
+    background-image: url('francia/hatterkep.jpg');
     background-size: cover;
     background-position: center;
     
