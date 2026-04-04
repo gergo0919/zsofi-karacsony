@@ -2,7 +2,7 @@
 const database = {
     // 1. PRÁGA (Galéria)
     "prága": {
-        coords: [50.0755, 14.4378], 
+        coords: [50.0755, 14.4378],
         title: "PRÁGA",
         text: "Jaj, hát első sorban, olyan jó újra végignézni ezeket a képeket újból, mindíg olyan jó kedvem lesz tőlük.\n De nahát prága, ez volt az első, de nem utolsó hosszú utunk ketten és én iszonyat jól éreztem magam veled. A legjobb este szerintem a jazz koncertes este volt, mind a ketten kiöltöztünk csinosra (Emlékszem ott botorkáltál lefelé a dombon a magassarkúban :)), becsiccsentettünk és csak élveztük egymás társaságát meg a zenét. Na meg persze az egész napos kóborlások a városban, (egyébként nekem azóta is Prága a 2. kedvenc városom) annyira szeretek veled kalandozni mindenfelé, soha nem tudnám megunni. Utána mindegyik este volt egy romantikus esténk (fuu az a chicken alfredo de jó volt), ha jól emlékszem ott táncikáltunk is. Az a helyzet, hogy végtelenségig tudnék yappolni prágáról, de főleg rólad. Jaj és az utolsó nap is de csúcs volt, amikor bementünk abba a kávézóba és zenéltek, mi meg iszogattuk a finom kis italkáinkat, beszélgettünk és játszottunk azzal a lovify micsudival. Meg hát ugye este amikor felmentünk arra a hegyre, az gyönyörű volt, meg nagyon jót dumcsiztunk, meg ugye utána a meki :).\n Prágáról ennyi volt, remélem tetszett sok puszi és jó szórakozást a többihez ;) \n Nagyon szeretlek \u2665",
         images: [
