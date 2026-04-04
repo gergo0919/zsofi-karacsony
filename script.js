@@ -121,7 +121,6 @@ const database = {
             "2.5_randi/IMG_5324.JPG",
             "2.5_randi/IMG_5326.jpg",
             "2.5_randi/IMG_5331.JPG"
-
         ]
     },
     // Amikor összejöttünk
