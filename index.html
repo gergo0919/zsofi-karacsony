@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karácsonyi Keresés</title>
+    <title>Szerelmünk emlékei</title>
+    <link rel="icon" type="image/jpg" href="favicon.jpg">
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="home-body">
 
-    <div class="top-message">Boldog Karácsonyt!</div>
+    <div class="top-message">Boldog két és fél éves évfordulót!</div>
 
     <div class="search-container">
         <h1>Szia Gombócka&#x2661; !</h1>
-        <input type="text" id="searchInput" placeholder="Írd be az egyik szót...">
+        <input type="text" id="searchInput" list="keyword-list" placeholder="Írd be az egyik szót...">
+        <datalist id="keyword-list">
+        <option value="térképünk">
+        </datalist>
         <button onclick="searchKeyword()">Mehet</button>
         
         <p id="error-message"></p>
