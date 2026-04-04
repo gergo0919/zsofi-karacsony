@@ -2,6 +2,7 @@
 const database = {
     // 1. PRÁGA (Galéria)
     "prága": {
+        coords: [50.0755, 14.4378],
         title: "PRÁGA",
         text: "Jaj, hát első sorban, olyan jó újra végignézni ezeket a képeket újból, mindíg olyan jó kedvem lesz tőlük.\n De nahát prága, ez volt az első, de nem utolsó hosszú utunk ketten és én iszonyat jól éreztem magam veled. A legjobb este szerintem a jazz koncertes este volt, mind a ketten kiöltöztünk csinosra (Emlékszem ott botorkáltál lefelé a dombon a magassarkúban :)), becsiccsentettünk és csak élveztük egymás társaságát meg a zenét. Na meg persze az egész napos kóborlások a városban, (egyébként nekem azóta is Prága a 2. kedvenc városom) annyira szeretek veled kalandozni mindenfelé, soha nem tudnám megunni. Utána mindegyik este volt egy romantikus esténk (fuu az a chicken alfredo de jó volt), ha jól emlékszem ott táncikáltunk is. Az a helyzet, hogy végtelenségig tudnék yappolni prágáról, de főleg rólad. Jaj és az utolsó nap is de csúcs volt, amikor bementünk abba a kávézóba és zenéltek, mi meg iszogattuk a finom kis italkáinkat, beszélgettünk és játszottunk azzal a lovify micsudival. Meg hát ugye este amikor felmentünk arra a hegyre, az gyönyörű volt, meg nagyon jót dumcsiztunk, meg ugye utána a meki :).\n Prágáról ennyi volt, remélem tetszett sok puszi és jó szórakozást a többihez ;) \n Nagyon szeretlek \u2665",
         images: [
@@ -16,6 +17,7 @@ const database = {
 
     // 2. AZ ELEJE (ÚJ Galéria - 7 kép)
     "az eleje": {
+        coords: [47.667408, 19.074774],
         title: "AZ ELEJE",
         text: "Hát szia Gombócka, ha jól tudom a fenti első kép az első közös képünk ketten. Brutális, hogy októberben majd már 3 éve leszünk együtt. Annyi mindent kaptam tőled a szereteted mellett, hogy csak vigyorogni tudok miközben ezt írom. Arról ne is beszéljünk, hogy amikor azt hiszem, hogy ennél már jobb nem is lehet, ismét ugrunk egy szintet és csak tátott szájjal nézek. Mert olyan gyönyörű vagy és mélyen törődő, lelkes és csak úgy ragyogsz amikor jó kedved van :), megállíthatatlannak tűnsz (és az is vagy).\nJhaaaaj, úgy szeretlek, majd megeszlek(mondta Gergő és befalta a Zsófit(Gombóckát)).\nEszméletlenül szeretek veled új dolgokat csinálni, tapasztalni és érezni. \nÉn úgy érzem amióta összejöttünk egyre jobban érzem magam a saját bőrömben és jobban önmagam vagyok, tudom ez kissé goofyn hangzik de ez az igazság, de elég is legyen ebből.\nEmlékszel amikor fent voltunk a halász bástyánál az első randinkon, bahaha konkrétan vakon voltunk mind a ketten. Meginterjúvoltalak mint valami autista, de ezek szerint bevált, nem kezdtél el sprintelni a másik irányba, szóval valamit jól csinálhattam(Vagy csak eszméletlenül ellenálhatatlanul nézek ki, vagy mind a kettő?) \nViszont október 3.-án 2023-ban szerintem az közel egy tökéletes randi volt, kivéve azt ahogyan megkérdeztem, hogy leszel e a barátnőm (megesik a legjobbakkal is) ott voltunk lent a Dunaparton egy azt hiszem partra vetett stégen. Leterítettük a plédet amit hoztunk és ha jól emlékszem vittünk kis snacket magunkkal. Nekem onnan nagyon megvan az a néhány perc amikor ülünk egymás mellett elkezdünk smárolni, lefekszünk egymás mellé és folytatjuk. wowowow najo, vizuális típus vagyok, de lényeg a lényeg szerintem az baromi jó volt. Az a helyzet, hogy még annyi minden ilyen kis emlékről tudnék mesélni, most például még a szülinapi piknikem jutott eszembe, tudod az anyukám azt mondta ne most csókolózzunk, mert beteg vagyok bahahah, az irtó cuki volt.\nRemélem rengeteg ilyen bombasztikus évünk lesz még közösen, irtózatosan szeretlek \nA világon az összes puszi\nGergő   ", 
         images: [
@@ -55,6 +57,7 @@ const database = {
     },
     //BÉCS
     "bécs": {
+        coords: [48.2082, 16.3738],
         title: "BÉCS",
         text: "Wao, ez nagyon régen volt, olyan kis piciknek nézünk ki.\n Január 3.-án voltunk kint 2024-ben a 3. hónapfordulónkon, megvan még a túravezető kártya meg a térkép amit tőlem kaptál?\n Ha jól emlékszem apa dobott le minket a buszmegállóban és valami hajnali 4-5 volt azthiszem.\n Amint megérkeztünk el is indultunk a fenster cafeba, ahol találkoztunk azzal a cukker bácsival, még útravaló kávét is kaptunk tőle, az iszonyat finom volt.\n Utána megindultunk az utunkon amit előre kinéztem, meg azthiszem fel is készültem néhány dologból. Amúgy az egy jó fárasztó nap volt, emlékszem már a végén alig álltunk a lábunkon.\n Nekem a két kedvenc emlékem egyike onnan az, amikor felmentünk a kastély mögé oda a dombra, beszélgettünk, szendvicseztünk és nétük a tájat. A másik pedig a five guys(bahahah). A múzeumozás a másik legkedvesebb ottani emlékem veled, az nagyon jó volt. Na és ne felejtsük, ott készült az a remek kép rólunk bahahah amikor azthiszem véletlenül vakuztál szelfibe és hülye fejeket vágtunk(De sajnos nem találtam a képet, szóval majd küld el és feltöltöm utólag). Én majd még nagyon szívesen mennék veled múzeumokba, nagyon élveztem. De a legkedvencebb az így is te voltál és az élmény, hogy veled lehettem.\nEz volt az első közös utunk külföldre ketten és azt kell mondjam jó kezdés volt nagyon. Remélem tetszett ez a kis beszámoló és te is vissza tudtál emlékezni egy pár vicces pillanatra vagy szép emlékre.\n Várom a további kalandjainkat\nPuszi\nGergő",
         images: [
@@ -64,8 +67,9 @@ const database = {
 
     // HORVÁTORSZÁG
     "horvátország": {
-        title: "HORVÁTORSZÁG",            
-        text: "Hello contreversy.\n Horvátország mmhmm ez egy ilyen gránátalma, kicsit nehéz volt a útközben,de a végén az íze megérte a szenvedést. Tudom, tudom, igazi művész vagyok, de így utólag nekem tényleg baromi jó emlékként maradt meg és csak a legszebb pillanatok jutnak eszembe, ha rágondolok.\n A rengeteg suppozás, búvárkodás, esti caplatás fagyizás közben és a társas partik esténként. Nekem az az emlék egy ilyen safe place. Igaz, sok volt a nehéz pillanat és sokat is sírtunk, de elég sokat is tanultunk belőle és emellett még jó emlékként is maradt meg, na de, hagy számoljak be kicsit néhány emlékről.\n A 3. kép még mindig az egyik kedvenc képem rólad, nagyon cuki, ahogy ott mosolyogsz. Olyan jó helyen volt az a szállás, gyönyörű volt(mint te). Veled a kedvenc emlékeim közül az egyik, vagyis igazából ez nem is egy emlék, de amikor ketten suppoztunk és akár ketten, akár én egyedül amíg te napoztál, de a búvárkodás és közös beszélgetések miközben heverésztünk a tengeren. A másik pedig amikor elmentünk egy naplementés sétára(látszik is az egyik képen) és megmutattad nekem, hogy hol volt a régi szállásotok. Meg emlékszem arra a viharos estére, az nagyon vicces volt, mindenki kirohant a teraszra összeszedni a dolgokat, viszont az is olyan szép volt és jó érzés, hogy nyáron éjszaka ott álltunk kint és csak fújt a szél és zuhogott az eső, az nagyon tetszett.\n Jaj, mi is volt annak a hajónak a neve, tudod az a rákász hajó amit lefotóztunk, és utána bementünk egy szuvenír boltba, ahol Boldi talállt magának egy ilyen pikacsus füllel integetős sapkát, az nagyon funky volt. Meg amikor egyik este négyen elmentünk anyukáddal és Boldival sétálni és fagyizni, az nagyon hangulatos volt. Úgy hiányzik a nyár, meg a nyári emlékek, annyira jók voltak, de ne izgulj nemsokára jön egy új nyár és ennél is több és jobb kalandunk lesz ;).\nRemélem jó volt ezt olvasgatni\nMillió puszi\n Gergő",
+        coords: [43.533329, 15.965419],
+        title: "HORVÁTORSZÁG",
+        text: "Hello contreversy.\n Horvátország mmhmm ez egy ilyen gránátalma, kicsit nehéz volt a útközben,de a végén az íze megérte a szenvedést. Tudom, tudom, igazi művész vagyok, de így utólag nekem tényleg baromi jó emlékként maradt meg és csak a legszebb pillanatok jutnak eszembe, ha rágondolok.\n A rengeteg suppozás, búvárkodás, esti caplatás fagyizás közben és a társas partik esténként. Nekem az az emlék egy ilyen safe place. Igaz, sok volt a nehéz pillanat és sokat is sírtunk, de elég sokat is tanultunk belőle és emellett még jó emlékként is maradt meg, na de, hagy számoljak be kicsit néhány emlékről.\n A 3. kép még mindíg az egyik kedvenc képem rólad, nagyon cuki, ahogy ott mosojogsz. Olyan jó helyen volt az a szállás, gyönyörű volt(mint te). Veled a kedvenc emlékeim közül az egyik, vagyis igazából ez nem is egy emlék, de amikor ketten suppoztunk és akár ketten, akár én egyedül amíg te napoztál, de a búvárkodás és közös beszélgetések miközben heverésztünk a tengeren. A másik pedig amikor elmentünk egy naplementés sétára(látszik is az egyik képen) és megmutattad nekem, hogy hol volt a régi szállásotok. Meg emlékszem arra a viharos estére, az nagyon vicces volt, mindenki kirohant a teraszra összeszedni a dolgokat, viszont az is olyan szép volt és jó érzés, hogy nyáron éjszaka ott álltunk kint és csak fújt a szél és zuhogott az eső, az nagyon tetszett.\n Jaj, mi is volt annak a hajónak a neve, tudod az a rákász hajó amit lefotóztunk, és utána bementünk egy szuvenír boltba, ahol Boldi talállt magának egy ilyen pikacsus füllel integetős sapkát, az nagyon funky volt. Meg amikor egyik este négyen elmentünk anyukáddal és Boldival sétálni és fagyizni, az nagyon hangulatos volt. Úgy hiányzik a nyár, meg a nyári emlékek, annyira jók voltak, de ne izgulj nemsokára jön egy új nyár és ennél is több és jobb kalandunk lesz ;).\nRemélem jó volt ezt olvasgatni\nMillió puszi\n Gergő",
         images: [
             "horvatorszag/20240801_204454.jpg",  "horvatorszag/20240801_204635.jpg", "horvatorszag/20240801_204642.jpg",
             "horvatorszag/20240807_195751.jpg", "horvatorszag/att.1_VZ6s5qxqMi5Cgv87OTL-YqdQt37daSmFpY3vlOV-M.jpg", "horvatorszag/att.NTSWLCGAPwY4ID0LX9c8fEJOkTxrBT-CiP2eUjL5MxI.png.jpeg"
@@ -74,6 +78,7 @@ const database = {
 
     // SÍELÉS
     "síelés": {
+        coords: [47.291081, 13.456848],
         title: "SÍELÉS",
         text: "Sziaaaaaa,\nNemsokára újra síelni megyünk, én nagyon várom, eszméletlen jó volt veled, úgy feldobtad az egészet, hogy csak na(hu de sok vessző lett ide) \n Nahát igen, Gombócka, te olyan gyorsan megtanultál síelni, hogy elképesztő és lehet még gyorsabb is lett volna, ha hamarabb észreveszem, hogy alig csatoltam be a bakancsodat az elején.\nOlyan gyönyörű volt az egész hegyvidék, az a forrócsoki ott fent az valami más volt, csak egy sör hiányzott utána(amúgy lehet ittam is). Igazából az a jó ebben az egészben, hogyha visszajöttünk a síelésből fel tudom tölteni új emlékekkel ezt az egészet. Igazándiból ez a tervem ezzel az egésszel, hogy folyamatosan tudjak rá feltölteni újabb és újabb emlékeket, na de visszatérve az első síelésünkre.\n Hát igazából csak szeretném, hogy megnézd azt a videót, itt a két kép után bahahaha. Ez az egyik kedvenc videóm rólunk, már akkor is egy kis humor herold voltál:). \nA síelésről csak ennyit szerettem volna, nagyon várom a következőt és nagyon szeretlek\npuszi\nGergő ",
         images: [
@@ -99,6 +104,70 @@ const database = {
 
         ]
     },
+    // Randi ketesfelev
+    "2,5 év randi": {
+        coords: [47.514815, 19.035806],
+        title: "2,5 év randi",
+        text: "Szia\nCsak gondoltam feltöltöm ide is a képeket, mert én nagyon jól éreztem magam és így talán többször vissza tudunk rá emlékezni.\nszeretlek\nGergő",
+        images: [
+            "2.5_randi/IMG_5270.jpg", "2.5_randi/IMG_5272.jpg", "2.5_randi/IMG_5278.jpg", "2.5_randi/IMG_5265.jpg",
+            "2.5_randi/IMG_5266.jpg", "2.5_randi/IMG_5268.jpg", "2.5_randi/IMG_5269.jpg", "2.5_randi/IMG_5261.jpg",
+            "2.5_randi/IMG_5262.jpg", "2.5_randi/IMG_5264.jpg", "2.5_randi/IMG_5303.jpg", "2.5_randi/IMG_5305.jpg",
+            "2.5_randi/IMG_5313.jpg", "2.5_randi/IMG_5322.jpg", "2.5_randi/IMG_5301.jpg", "2.5_randi/IMG_5314.jpg",
+            "2.5_randi/IMG_5326.jpg", "2.5_randi/IMG_5302.jpg", "2.5_randi/IMG_5329.jpg", "2.5_randi/IMG_5300.jpg",
+            "2.5_randi/IMG_5309.jpg", "2.5_randi/IMG_5317.jpg", "2.5_randi/IMG_5324.jpg", "2.5_randi/IMG_5331.jpg"
+
+        ]
+    },
+    // Amikor összejöttünk
+    "Leszel a barátnőm?": {
+        coords: [47.617880, 19.083314],
+        title: "Leszel a barátnőm?",
+        text: "Szia\nÚgy gondoltam, hogy ez a nap megérdemel egy egyéni oldalt, főleg így most a két és fél éves évfordulónk alkalmából, jujj ez nagyon komolyan hangzóra sikeredett. Igazából egyre durvább, minél többet haladunk előre az időben, de ez nagyon rég volt, és annyit fejlődtünk és változtunk azóta, nagyon büszke vagyok magunkra.2023 Október 3. van egy őszi nap délutánján amikor még meleg volt és jóidő. Egyébként meg az a randi nagyon mágikus volt, odamentünk a dunapartra a kisodrott hajóra, leterítettünk egy plédet, beszélgettünk, ha jól emlékszem valami nasit is vittünk, meg hát ott már rendesen smároltunk, szóval tényleg egy nagyon különleges randi volt nekem, viszont ha jól emlékszem el kellett induljunk mert szétcsíptek minket a szúnyogok. Na hát és a visszafele úton, jaj istenem de kis béna voltam, te meg már hintettél is el dolgokat, hogy ne bénázzak tovább. Ott sétáltunk valamerre a hufi közelébe visszafelé és hát igen, végre elérkezett a nagy kérdés, hogy leszel e a barátnőm, és a válasz ......... 'IGEN' yessssssss ezaaaaaaz jaaaaa juhuuuu. Legjobb igen amit kaptam valaha. Szóval igen nagyon örülök, hogy ez megtörtént és, hogy azóta is együtt vagyunk és nem is akárhogyan. Remélem te is hasonlóképpen emlékszel vissza erre a napra. \nNagyon szeretlek\nGergő",
+        images: [
+            
+            "osszejottunk/IMG_0305.jpg"
+        ]
+    },
+    // SÍELÉS 2
+    "Franciaország": {
+        coords: [44.189191, 7.150644],
+        title: "SÍELÉS Franciaországban",
+        text: "Szeja!\n tudom,tudom, kicsit elkéstem ezzel, dehát jobb később mint soha. Nekem ez az egész annyire egy ilyen komfort emlékként van meg, hogy azt el se tudom mondani neked, csak így megnyugtató visszagondolni arra, hogy ott vagyunk a hegyekbe és síelgetünk pihizünk és jólérezzük magunkat. Na és hát a legjobb dolog se maradjon ki, az, hogy te is ott voltál velem raaahahah. Olyan kis ügyes vagy, úgy hasítottál mint egy gombócka a lejtőn lefelé ahahah. Remélem legközelebb, ha megyünk akkor kicsit jobb lesz a szállás és kényelmesebben el lehet majd húzódni, viszont nekem nagyon tetszett, hogy folyamatosan mentek a hülyéskedések közösen és a társasozások, meg hát ugye a cod partyk matyival. Veled pedig az egyik kedvenc pillanatom az volt amikor ketten a szűzhavas pálya mellett megálltunk és kifeküdtünk a hóba egyet, a többi pedig a felvonózások ketten, főleg azon a két személyesen. Nagyon imádok veled közösen kacagni, igazából ez konkrétan majdnem igaz minden tevékenységre, veled minden sokkal vidámabb, kivéve, ha éppen durci vagy ahaha, de azok meg elkerülhetetlen dolgok, emellett pedig szerintem nagyon cuki vagy amikor durci vagy:). Úgy örülök, hogy neked is így tetszik ez a sport és, hogy ketten tudjuk ezt az egészet élvezni és annyi jó pillanatot ad nekünk. Viszont azért a kajákról is illek írni amiket ettünk, főleg az a sajt fondü, mmmmm nem emlékszem már, hogy neked, hogy ízlett pontosan, de azt hiszem neked is nagyon ízlett, meg olyan jól nézett ki ott azon az asztalon. A másik pedig az a szendvics amit ettünk abba a hüttébe ahol volt a grillezés meg a dj pali, az egy abszolút banger volt. Viszont tudom-tudom, itt a tavasz és már nem olyan erre a síelésre gondolni mint télen vagy ősszel, szóval térjünk is át Monacóba, de még mielőtt azt megtennénk két dolog: az autó kiásás az nagyon fun volt, és remélem nem kerül senkinek a palacsintájába hógolyó bahahah. Szóval Monacó nekem baromira tetszett, de láttam rajtad, hogy te is ellettél volna ott még egy egész napot. Olyan volt mintha kaptunk volna egy ilyen trailert a tavastból, azok a növények ott baromi szépek voltak, na és az autókról ne is beszéljünk, szerintem mind a ketten csak így sétáltunk és néztük, hogy na igen, ilyennek kéne lennie minden városnak. Na és, hogy ott volt mellette a tenger bahh, gyönyörű volt, megértem, hogy ott tartották az esküvőjüket charles leclercék. Én egyszer biztosan vissza akarok majd menni oda veled, akár csak rövidebb időre akár hoszabbra és majd menjünk el a múzeumba is. Zárásként pedig még egy dolog van ami nekem nagyon megmaradt, az pedig a hazafelé kocsiút volt amikor egy órát legalább azzal töltöttünk, hogy abszolút szakadtunk a röhögéstől egymáson 'Im under the water' és a többi.\n Remélem tetszett ez a kis beszámoló és a képek hozzá,\nnagyon szeretlek és remélem minél több jó emléket szerzünk a nyáron és tavaszzal is akár.\nSzeretettel\Gergő",
+        images: [
+            "francia/IMG_1449.jpg",
+"francia/IMG_1460.jpg",
+"francia/IMG_1470.jpg",
+ "francia/IMG_1593.jpg",
+"francia/IMG_1486.jpg",
+"francia/IMG_3674.jpg",
+"francia/IMG_1391.jpg",
+"francia/IMG_1440.jpg",
+"francia/IMG_1685.jpg",
+"francia/IMG_1508.jpg",
+"francia/IMG_1590.jpg",
+"francia/IMG_1443.jpg",
+"francia/IMG_3694.jpg",
+"francia/IMG_3695.jpg",
+"francia/IMG_3696.jpg",
+"francia/IMG_3856.jpg",
+"francia/IMG_1640.jpg",
+"francia/IMG_3836.jpg",
+"francia/IMG_1612.jpg",
+"francia/IMG_1615.jpg",
+"francia/IMG_1619.jpg",
+"francia/IMG_1622.jpg",
+"francia/IMG_1604.jpg",
+"francia/IMG_1597.jpg",
+"francia/IMG_1607.jpg",
+"francia/IMG_1611.jpg",
+
+
+        ]
+    },
+
+
+
 
     // KAJCSI
     "kajcsi": {
@@ -137,18 +206,29 @@ let currentImages = [];
 let currentIndex = 0;   
 
 function searchKeyword() {
+    // Kisbetűssé alakítjuk és leszedjük a felesleges szóközöket
     const input = document.getElementById('searchInput').value.trim().toLowerCase();
     const errorMsg = document.getElementById('error-message');
+    
+    console.log("Beírt szó:", input); // Ez segít nekünk debuggolni
 
+    // 1. Speciális eset: A TÉRKÉP
+    if (input === "térképünk") {
+        console.log("Irány a térkép!");
+        window.location.href = "map.html";
+        return; // Kilépünk a függvényből, hogy ne keressen tovább
+    }
+
+    // 2. Normál eset: Helyszínek az adatbázisból
     if (database[input]) {
-        // Átirányít a result.html-re az adott ID-val
-        window.location.href = `result.html?id=${input}`;
+        window.location.href = `result.html?id=${encodeURIComponent(input)}`;
     } else {
-        errorMsg.textContent = "Nincs találat.";
+        // 3. Ha semmi nem stimmel
+        errorMsg.textContent = "Nincs találat. Biztos jól írtad? (Próbáld: térképünk)";
     }
 }
 
-// Enter gomb figyelése
+// Enter gomb figyelése (marad a régi, de ellenőrizd, hogy benne van-e)
 const inputField = document.getElementById("searchInput");
 if (inputField) {
     inputField.addEventListener("keypress", function(event) {
@@ -244,5 +324,35 @@ function updateImage() {
     if (counterElement) {
         counterElement.textContent = (currentIndex + 1) + " / " + currentImages.length;
     }
+}
 
+// --- LISTA AUTOMATIKUS FELTÖLTÉSE ---
+function setupDatalist() {
+    const list = document.getElementById('keyword-list');
+    if (!list) return;
+
+    // Végigmegyünk az adatbázis kulcsain (prága, bécs, stb.)
+    Object.keys(database).forEach(key => {
+        // Létrehozunk egy új opciót a listához
+        const option = document.createElement('option');
+        option.value = key; // Ez lesz az érték, amit beír a mezőbe
+        list.appendChild(option);
+    });
+}
+
+// Amint betölt az oldal, készítse el a listát
+window.addEventListener('DOMContentLoaded', setupDatalist);
+
+// A searchKeyword függvényed maradhat a legutóbbi (ami kezeli a térképet is):
+function searchKeyword() {
+    const input = document.getElementById('searchInput').value.trim().toLowerCase();
+    const errorMsg = document.getElementById('error-message');
+
+    if (input === "térképünk") {
+        window.location.href = "map.html";
+    } else if (database[input]) {
+        window.location.href = `result.html?id=${encodeURIComponent(input)}`;
+    } else {
+        errorMsg.textContent = "Nincs ilyen emlékünk... Próbáld a listából!";
+    }
 }
