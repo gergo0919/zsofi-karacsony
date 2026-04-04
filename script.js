@@ -110,10 +110,17 @@ const database = {
         title: "2,5 év randi",
         text: "Szia\nCsak gondoltam feltöltöm ide is a képeket, mert én nagyon jól éreztem magam és így talán többször vissza tudunk rá emlékezni.\nszeretlek\nGergő",
         images: [
-               "2.5_randi/IMG_5305.jpg",
-            "2.5_randi/IMG_5313.jpg", "2.5_randi/IMG_5322.jpg", "2.5_randi/IMG_5301.jpg", "2.5_randi/IMG_5314.jpg",
-            "2.5_randi/IMG_5326.jpg", "2.5_randi/IMG_5302.jpg", "2.5_randi/IMG_5300.jpg",
-            "2.5_randi/IMG_5309.jpg",  "2.5_randi/IMG_5324.jpg", "2.5_randi/IMG_5331.jpg"
+               "2.5_randi/IMG_5300.JPG",
+            "2.5_randi/IMG_5301.jpg",
+            "2.5_randi/IMG_5302.JPG",
+            "2.5_randi/IMG_5305.JPG",
+            "2.5_randi/IMG_5309.JPG",
+            "2.5_randi/IMG_5313.JPG",
+            "2.5_randi/IMG_5314.JPG",
+            "2.5_randi/IMG_5322.JPG",
+            "2.5_randi/IMG_5324.JPG",
+            "2.5_randi/IMG_5326.jpg",
+            "2.5_randi/IMG_5331.JPG"
 
         ]
     },
