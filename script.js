@@ -110,29 +110,27 @@ const database = {
         title: "2,5 év randi",
         text: "Szia\nCsak gondoltam feltöltöm ide is a képeket, mert én nagyon jól éreztem magam és így talán többször vissza tudunk rá emlékezni.\nszeretlek\nGergő",
         images: [
-            "2.5_randi/IMG_5270.jpg", "2.5_randi/IMG_5272.jpg", "2.5_randi/IMG_5278.jpg", "2.5_randi/IMG_5265.jpg",
-            "2.5_randi/IMG_5266.jpg", "2.5_randi/IMG_5268.jpg", "2.5_randi/IMG_5269.jpg", "2.5_randi/IMG_5261.jpg",
-            "2.5_randi/IMG_5262.jpg", "2.5_randi/IMG_5264.jpg", "2.5_randi/IMG_5303.jpg", "2.5_randi/IMG_5305.jpg",
+               "2.5_randi/IMG_5305.jpg",
             "2.5_randi/IMG_5313.jpg", "2.5_randi/IMG_5322.jpg", "2.5_randi/IMG_5301.jpg", "2.5_randi/IMG_5314.jpg",
-            "2.5_randi/IMG_5326.jpg", "2.5_randi/IMG_5302.jpg", "2.5_randi/IMG_5329.jpg", "2.5_randi/IMG_5300.jpg",
-            "2.5_randi/IMG_5309.jpg", "2.5_randi/IMG_5317.jpg", "2.5_randi/IMG_5324.jpg", "2.5_randi/IMG_5331.jpg"
+            "2.5_randi/IMG_5326.jpg", "2.5_randi/IMG_5302.jpg", "2.5_randi/IMG_5300.jpg",
+            "2.5_randi/IMG_5309.jpg",  "2.5_randi/IMG_5324.jpg", "2.5_randi/IMG_5331.jpg"
 
         ]
     },
     // Amikor összejöttünk
-    "Leszel a barátnőm?": {
+    "leszel a barátnőm?": {
         coords: [47.617880, 19.083314],
         title: "Leszel a barátnőm?",
         text: "Szia\nÚgy gondoltam, hogy ez a nap megérdemel egy egyéni oldalt, főleg így most a két és fél éves évfordulónk alkalmából, jujj ez nagyon komolyan hangzóra sikeredett. Igazából egyre durvább, minél többet haladunk előre az időben, de ez nagyon rég volt, és annyit fejlődtünk és változtunk azóta, nagyon büszke vagyok magunkra.2023 Október 3. van egy őszi nap délutánján amikor még meleg volt és jóidő. Egyébként meg az a randi nagyon mágikus volt, odamentünk a dunapartra a kisodrott hajóra, leterítettünk egy plédet, beszélgettünk, ha jól emlékszem valami nasit is vittünk, meg hát ott már rendesen smároltunk, szóval tényleg egy nagyon különleges randi volt nekem, viszont ha jól emlékszem el kellett induljunk mert szétcsíptek minket a szúnyogok. Na hát és a visszafele úton, jaj istenem de kis béna voltam, te meg már hintettél is el dolgokat, hogy ne bénázzak tovább. Ott sétáltunk valamerre a hufi közelébe visszafelé és hát igen, végre elérkezett a nagy kérdés, hogy leszel e a barátnőm, és a válasz ......... 'IGEN' yessssssss ezaaaaaaz jaaaaa juhuuuu. Legjobb igen amit kaptam valaha. Szóval igen nagyon örülök, hogy ez megtörtént és, hogy azóta is együtt vagyunk és nem is akárhogyan. Remélem te is hasonlóképpen emlékszel vissza erre a napra. \nNagyon szeretlek\nGergő",
         images: [
-            
-            "osszejottunk/IMG_0305.jpg"
+            "osszejottunk/IMG_0305.jpg",
+    
         ]
     },
     // SÍELÉS 2
-    "Franciaország": {
+    "franciaország": {
         coords: [44.189191, 7.150644],
-        title: "SÍELÉS Franciaországban",
+        title: "Síelés Franciaországban",
         text: "Szeja!\n tudom,tudom, kicsit elkéstem ezzel, dehát jobb később mint soha. Nekem ez az egész annyire egy ilyen komfort emlékként van meg, hogy azt el se tudom mondani neked, csak így megnyugtató visszagondolni arra, hogy ott vagyunk a hegyekbe és síelgetünk pihizünk és jólérezzük magunkat. Na és hát a legjobb dolog se maradjon ki, az, hogy te is ott voltál velem raaahahah. Olyan kis ügyes vagy, úgy hasítottál mint egy gombócka a lejtőn lefelé ahahah. Remélem legközelebb, ha megyünk akkor kicsit jobb lesz a szállás és kényelmesebben el lehet majd húzódni, viszont nekem nagyon tetszett, hogy folyamatosan mentek a hülyéskedések közösen és a társasozások, meg hát ugye a cod partyk matyival. Veled pedig az egyik kedvenc pillanatom az volt amikor ketten a szűzhavas pálya mellett megálltunk és kifeküdtünk a hóba egyet, a többi pedig a felvonózások ketten, főleg azon a két személyesen. Nagyon imádok veled közösen kacagni, igazából ez konkrétan majdnem igaz minden tevékenységre, veled minden sokkal vidámabb, kivéve, ha éppen durci vagy ahaha, de azok meg elkerülhetetlen dolgok, emellett pedig szerintem nagyon cuki vagy amikor durci vagy:). Úgy örülök, hogy neked is így tetszik ez a sport és, hogy ketten tudjuk ezt az egészet élvezni és annyi jó pillanatot ad nekünk. Viszont azért a kajákról is illek írni amiket ettünk, főleg az a sajt fondü, mmmmm nem emlékszem már, hogy neked, hogy ízlett pontosan, de azt hiszem neked is nagyon ízlett, meg olyan jól nézett ki ott azon az asztalon. A másik pedig az a szendvics amit ettünk abba a hüttébe ahol volt a grillezés meg a dj pali, az egy abszolút banger volt. Viszont tudom-tudom, itt a tavasz és már nem olyan erre a síelésre gondolni mint télen vagy ősszel, szóval térjünk is át Monacóba, de még mielőtt azt megtennénk két dolog: az autó kiásás az nagyon fun volt, és remélem nem kerül senkinek a palacsintájába hógolyó bahahah. Szóval Monacó nekem baromira tetszett, de láttam rajtad, hogy te is ellettél volna ott még egy egész napot. Olyan volt mintha kaptunk volna egy ilyen trailert a tavastból, azok a növények ott baromi szépek voltak, na és az autókról ne is beszéljünk, szerintem mind a ketten csak így sétáltunk és néztük, hogy na igen, ilyennek kéne lennie minden városnak. Na és, hogy ott volt mellette a tenger bahh, gyönyörű volt, megértem, hogy ott tartották az esküvőjüket charles leclercék. Én egyszer biztosan vissza akarok majd menni oda veled, akár csak rövidebb időre akár hoszabbra és majd menjünk el a múzeumba is. Zárásként pedig még egy dolog van ami nekem nagyon megmaradt, az pedig a hazafelé kocsiút volt amikor egy órát legalább azzal töltöttünk, hogy abszolút szakadtunk a röhögéstől egymáson 'Im under the water' és a többi.\n Remélem tetszett ez a kis beszámoló és a képek hozzá,\nnagyon szeretlek és remélem minél több jó emléket szerzünk a nyáron és tavaszzal is akár.\nSzeretettel\Gergő",
         images: [
             "francia/IMG_1449.jpg",
