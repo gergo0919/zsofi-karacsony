@@ -3,26 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Szerelmünk emlékei</title>
+    <title>Boldog három éves évfordulót ❤️</title>
     <link rel="icon" type="image/jpg" href="favicon.jpg">
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="home-body">
 
-    <div class="top-message">Boldog két és fél éves évfordulót!</div>
+    <div class="top-message">Boldog három éves évfordulót ❤️</div>
+    <button type="button" class="secret-star" id="secret-star" aria-label="Titkos oldal megnyitása" aria-haspopup="dialog">
+        &#9733;
+    </button>
 
     <div class="search-container">
         <h1>Szia Gombócka&#x2661; !</h1>
-        <input type="text" id="searchInput" list="keyword-list" placeholder="Írd be az egyik szót...">
-        <datalist id="keyword-list">
-        <option value="térképünk">
-        </datalist>
-        <button onclick="searchKeyword()">Mehet</button>
-        
-        <p id="error-message"></p>
+
+        <div class="search-input-row">
+            <input type="text" id="searchInput" autocomplete="off" aria-label="Emlék neve" aria-controls="keyword-list" aria-expanded="false" placeholder="Kattints ide...">
+            <button type="button" onclick="searchKeyword()">Mehet</button>
+        </div>
+
+        <div id="keyword-list" class="keyword-dropdown" role="listbox" aria-label="Emlékek nevei" hidden></div>
+
+        <p id="error-message" aria-live="polite"></p>
     </div>
 
     <footer class="bottom-message">Szeretettel: Gergő</footer>
+
+    <div class="secret-dialog" id="secret-dialog" role="dialog" aria-modal="true" aria-labelledby="secret-dialog-title" hidden>
+        <form class="secret-dialog-card" id="secret-form">
+            <button type="button" class="secret-dialog-close" id="secret-dialog-close" aria-label="Bezárás">&times;</button>
+            <h2 id="secret-dialog-title">Titkos oldal</h2>
+            <label for="secret-keyword">Írd be a titkos szót!</label>
+            <input type="text" id="secret-keyword" autocomplete="off" aria-describedby="secret-error">
+            <p id="secret-error" aria-live="polite"></p>
+            <button type="submit">Mehet</button>
+        </form>
+    </div>
 
     <script src="script.js"></script>
 </body>

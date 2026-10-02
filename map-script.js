@@ -14,6 +14,14 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r
     maxZoom: 20
 }).addTo(map);
 
+const memoryIcon = L.divIcon({
+    className: 'memory-marker',
+    html: '<span class="memory-marker__pin"><span aria-hidden="true">♥</span></span>',
+    iconSize: [38, 46],
+    iconAnchor: [19, 44],
+    popupAnchor: [0, -42]
+});
+
 // 3. Automatikus jelölő generálás a database objektumból
 // Fontos: A map.html-ben a script.js-nek hamarabb kell betöltődnie, mint ennek!
 if (typeof database !== 'undefined') {
@@ -22,7 +30,7 @@ if (typeof database !== 'undefined') {
 
         // Ellenőrizzük, hogy vannak-e koordináták megadva az adott elemhez
         if (item.coords && Array.isArray(item.coords)) {
-            const marker = L.marker(item.coords).addTo(map);
+            const marker = L.marker(item.coords, { icon: memoryIcon }).addTo(map);
             
             // Kép kiválasztása a popup-hoz (vagy a galéria első képe, vagy a sima kép)
             let popupImage = "";

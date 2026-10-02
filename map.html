@@ -16,6 +16,35 @@
             margin-bottom: 20px;
             z-index: 1; /* Hogy a popupok jó helyen legyenek */
         }
+        .memory-marker {
+            background: transparent;
+            border: 0;
+        }
+        .memory-marker__pin {
+            position: absolute;
+            top: 1px;
+            left: 4px;
+            display: grid;
+            width: 30px;
+            height: 30px;
+            place-items: center;
+            transform: rotate(-45deg);
+            border: 2px solid #fdfbf7;
+            border-radius: 50% 50% 50% 0;
+            background: #8e0e0e;
+            box-shadow: 0 2px 5px rgba(40, 15, 15, 0.45);
+            color: #f5d995;
+            transition: transform 160ms ease, background-color 160ms ease;
+        }
+        .memory-marker:hover .memory-marker__pin {
+            transform: rotate(-45deg) translateY(-2px);
+            background: #630808;
+        }
+        .memory-marker__pin > span {
+            transform: rotate(45deg);
+            font-size: 17px;
+            line-height: 1;
+        }
         /* Popup stílusa, hogy illeszkedjen a kuckós dizájnhoz */
         .leaflet-popup-content-wrapper {
             background: #fdfbf7;

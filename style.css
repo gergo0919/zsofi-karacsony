@@ -65,8 +65,102 @@
     font-size: 1.3em;
 }
 
+.secret-star {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    z-index: 11;
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    background: transparent;
+    color: #ffd84d;
+    border: 0;
+    font-size: 14px;
+    line-height: 1;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+
+.secret-star:hover,
+.secret-star:focus-visible {
+    color: #fff0a3;
+    background: transparent;
+}
+
+.secret-dialog[hidden] {
+    display: none;
+}
+
+.secret-dialog {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.secret-dialog-card {
+    position: relative;
+    width: min(100%, 400px);
+    padding: 38px 30px 30px;
+    background: #fdfbf7;
+    border: 6px double #8e0e0e;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+    text-align: center;
+}
+
+.secret-dialog-card h2 {
+    margin-bottom: 18px;
+    color: #5c3a3a;
+    font-size: 1.8em;
+    font-weight: normal;
+}
+
+.secret-dialog-card label {
+    display: block;
+    margin-bottom: 10px;
+    color: #5c3a3a;
+}
+
+.secret-dialog-card input {
+    margin-bottom: 12px;
+}
+
+.secret-dialog-card #secret-error {
+    min-height: 24px;
+    margin-bottom: 8px;
+    color: #8e0e0e;
+    font-style: italic;
+}
+
+.secret-dialog-card > button[type="submit"] {
+    min-width: 130px;
+}
+
+.secret-dialog-close {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    padding: 4px 8px;
+    background: transparent;
+    color: #5c3a3a;
+    font-size: 28px;
+    line-height: 1;
+}
+
+.secret-dialog-close:hover,
+.secret-dialog-close:focus-visible {
+    background: transparent;
+    color: #8e0e0e;
+}
+
 /* --- Kereső Doboz (A "Papír") --- */
 .search-container {
+    position: relative;
     background-color: #fdfbf7; /* Krémszínű, papírszerű háttér */
     padding: 45px;
     border-radius: 4px; /* Csak picit kerekített sarkok */
@@ -89,6 +183,13 @@
 }
 
 /* Input mező */
+.search-input-row {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
 input {
     padding: 12px;
     width: 100%;
@@ -98,7 +199,6 @@ input {
     font-size: 18px;
     font-family: 'Georgia', serif;
     color: #333;
-    margin-bottom: 20px;
     text-align: center; /* A beírt szöveg középen legyen */
 }
 
@@ -127,9 +227,50 @@ button:hover {
     background-color: #630808; /* Még sötétebb bordó */
 }
 
+.keyword-dropdown {
+    position: absolute;
+    left: 45px;
+    right: 45px;
+    z-index: 20;
+    max-height: 220px;
+    overflow-y: auto;
+    margin-top: -18px;
+    background: #fff;
+    border: 1px solid #8b7d7d;
+    border-top: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.18);
+    text-align: left;
+}
+
+.keyword-dropdown[hidden] {
+    display: none;
+}
+
+.keyword-option {
+    display: block;
+    width: 100%;
+    padding: 9px 12px;
+    background: #fff;
+    color: #333;
+    border: 0;
+    border-radius: 0;
+    font-size: 16px;
+    letter-spacing: normal;
+    text-align: left;
+    text-transform: none;
+}
+
+.keyword-option:hover,
+.keyword-option:focus {
+    background: #f1e7d8;
+    color: #5c3a3a;
+    outline: none;
+}
+
 #error-message {
     color: #8e0e0e;
-    margin-top: 15px;
+    min-height: 24px;
+    margin-top: 12px;
     font-style: italic;
 }
 
@@ -241,4 +382,11 @@ button:hover {
 .prev-btn:hover, .next-btn:hover {
     background-color: #8e0e0e;
     color: white;
+}
+
+@media (max-width: 600px) {
+    .secret-star {
+        top: 2px;
+        right: 2px;
+    }
 }

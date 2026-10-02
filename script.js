@@ -140,38 +140,38 @@ const database = {
         text: "Szeja!\n tudom,tudom, kicsit elkéstem ezzel, dehát jobb később mint soha. Nekem ez az egész annyire egy ilyen komfort emlékként van meg, hogy azt el se tudom mondani neked, csak így megnyugtató visszagondolni arra, hogy ott vagyunk a hegyekbe és síelgetünk pihizünk és jólérezzük magunkat. Na és hát a legjobb dolog se maradjon ki, az, hogy te is ott voltál velem raaahahah. Olyan kis ügyes vagy, úgy hasítottál mint egy gombócka a lejtőn lefelé ahahah. Remélem legközelebb, ha megyünk akkor kicsit jobb lesz a szállás és kényelmesebben el lehet majd húzódni, viszont nekem nagyon tetszett, hogy folyamatosan mentek a hülyéskedések közösen és a társasozások, meg hát ugye a cod partyk matyival. Veled pedig az egyik kedvenc pillanatom az volt amikor ketten a szűzhavas pálya mellett megálltunk és kifeküdtünk a hóba egyet, a többi pedig a felvonózások ketten, főleg azon a két személyesen. Nagyon imádok veled közösen kacagni, igazából ez konkrétan majdnem igaz minden tevékenységre, veled minden sokkal vidámabb, kivéve, ha éppen durci vagy ahaha, de azok meg elkerülhetetlen dolgok, emellett pedig szerintem nagyon cuki vagy amikor durci vagy:). Úgy örülök, hogy neked is így tetszik ez a sport és, hogy ketten tudjuk ezt az egészet élvezni és annyi jó pillanatot ad nekünk. Viszont azért a kajákról is illek írni amiket ettünk, főleg az a sajt fondü, mmmmm nem emlékszem már, hogy neked, hogy ízlett pontosan, de azt hiszem neked is nagyon ízlett, meg olyan jól nézett ki ott azon az asztalon. A másik pedig az a szendvics amit ettünk abba a hüttébe ahol volt a grillezés meg a dj pali, az egy abszolút banger volt. Viszont tudom-tudom, itt a tavasz és már nem olyan erre a síelésre gondolni mint télen vagy ősszel, szóval térjünk is át Monacóba, de még mielőtt azt megtennénk két dolog: az autó kiásás az nagyon fun volt, és remélem nem kerül senkinek a palacsintájába hógolyó bahahah. Szóval Monacó nekem baromira tetszett, de láttam rajtad, hogy te is ellettél volna ott még egy egész napot. Olyan volt mintha kaptunk volna egy ilyen trailert a tavastból, azok a növények ott baromi szépek voltak, na és az autókról ne is beszéljünk, szerintem mind a ketten csak így sétáltunk és néztük, hogy na igen, ilyennek kéne lennie minden városnak. Na és, hogy ott volt mellette a tenger bahh, gyönyörű volt, megértem, hogy ott tartották az esküvőjüket charles leclercék. Én egyszer biztosan vissza akarok majd menni oda veled, akár csak rövidebb időre akár hoszabbra és majd menjünk el a múzeumba is. Zárásként pedig még egy dolog van ami nekem nagyon megmaradt, az pedig a hazafelé kocsiút volt amikor egy órát legalább azzal töltöttünk, hogy abszolút szakadtunk a röhögéstől egymáson 'Im under the water' és a többi.\n Remélem tetszett ez a kis beszámoló és a képek hozzá,\nnagyon szeretlek és remélem minél több jó emléket szerzünk a nyáron és tavaszzal is akár.\nSzeretettel\Gergő",
         images: [
             "francia/IMG_1449.jpg",
-"francia/IMG_1460.jpg",
-"francia/IMG_1470.jpg",
- "francia/IMG_1593.jpg",
-"francia/IMG_1486.jpg",
-"francia/IMG_3674.jpg",
-"francia/IMG_1391.jpg",
-"francia/IMG_1440.jpg",
-"francia/IMG_1685.jpg",
-"francia/IMG_1508.jpg",
-"francia/IMG_1590.jpg",
-"francia/IMG_1443.jpg",
-"francia/IMG_3694.jpg",
-"francia/IMG_3695.jpg",
-"francia/IMG_3696.jpg",
-"francia/IMG_3856.jpg",
-"francia/IMG_1640.jpg",
-"francia/IMG_3836.jpg",
-"francia/IMG_1612.jpg",
-"francia/IMG_1615.jpg",
-"francia/IMG_1619.jpg",
-"francia/IMG_1622.jpg",
-"francia/IMG_1604.jpg",
-"francia/IMG_1597.jpg",
-"francia/IMG_1607.jpg",
-"francia/IMG_1611.jpg",
+            "francia/IMG_1460.jpg",
+            "francia/IMG_1470.jpg",
+             "francia/IMG_1593.jpg",
+            "francia/IMG_1486.jpg",
+            "francia/IMG_3674.jpg",
+            "francia/IMG_1391.jpg",
+            "francia/IMG_1440.jpg",
+            "francia/IMG_1685.jpg",
+            "francia/IMG_1508.jpg",
+            "francia/IMG_1590.jpg",
+            "francia/IMG_1443.jpg",
+            "francia/IMG_3694.jpg",
+            "francia/IMG_3695.jpg",
+            "francia/IMG_3696.jpg",
+            "francia/IMG_3856.jpg",
+            "francia/IMG_1640.jpg",
+            "francia/IMG_3836.jpg",
+            "francia/IMG_1612.jpg",
+            "francia/IMG_1615.jpg",
+            "francia/IMG_1619.jpg",
+            "francia/IMG_1622.jpg",
+            "francia/IMG_1604.jpg",
+            "francia/IMG_1597.jpg",
+            "francia/IMG_1607.jpg",
+            "francia/IMG_1611.jpg",
+                    ]
+                },
 
 
-        ]
-    },
 
 
-
+    
 
     // KAJCSI
     "kajcsi": {
@@ -201,46 +201,108 @@ const database = {
         ]
     },
 
-    
+    // ROMA
+    "Róma": {
+        coords: [41.9028, 12.4964],
+        title: "ROMA",
+        text: "Harrow,\n annyira menő, hogy ennyi ideje itt van már ez a kis weboldal és fel tudom tölteni mindíg a legújabb kalandjainkat.\n Én nagyon élveztem az egészet és annyira jó volt időt tölteni veled kettesben és végig veled lenni, mindíg amikor visszagondolok, olyan nyugodt leszek.(Persz azt a tengerpartos kalandot kivéve, de az tanulópénz volt). Viszont be kell, hogy valljam neked, hogy sajnos nem igazán jutott időm ezt csinálni, mert a honlap formázása is viszonylag sok idő volt, meg van egy pár titkos dolog, de az majd meglátod később. Ha lesz időm minél hamarabb megcsinálom, ezt megigérem, úgyhogy te csak ne aggódjál. Nagyon boldog 3. évet kívánok nekünk, és remélem még rengeteg időnk lesz együtt, nagyon szeretlek. Gergő ",
+        images: [
+            "roma/IMG_2980.jpg",
+            "roma/IMG_2998.jpg",
+            "roma/IMG_3013.jpg",
+            "roma/IMG_3026.jpg",
+            "roma/IMG_3037.jpg",
+            "roma/IMG_3043.jpg",
+            "roma/IMG_3064.jpg",
+            "roma/IMG_3104.jpg",
+            "roma/IMG_3114.jpg",
+            "roma/IMG_3138.jpg",
+            "roma/IMG_3143.jpg",
+            "roma/IMG_3150.jpg",
+            "roma/IMG_3164.jpg",
+            "roma/IMG_3179.jpg",
+            "roma/IMG_3183.jpg",
+            "roma/IMG_3185.jpg",
+            "roma/IMG_3202.jpg",
+            "roma/IMG_3214.jpg",
+            "roma/IMG_3221.jpg",
+            "roma/IMG_3231.jpg",
+            "roma/IMG_3234.jpg",
+            "roma/IMG_3258.jpg",
+            "roma/IMG_3305.jpg",
+            "roma/IMG_3322.jpg",
+            "roma/IMG_3336.jpg",
+            "roma/IMG_3340.jpg",
+            "roma/IMG_3368.jpg",
+            "roma/IMG_3374.jpg"
+        ]
+    },
+
+    "3 éves évfordulónk": {
+        coords: [47.5075, 18.966],
+        title: "3 éves évfordulónk",
+        text: "Nagyon Boldog 3 éves évfordulót, nagynnagyon szeretlek és annyira örülök, hogy veled tölthetem az időmet, nagyon értékelek és szeretlek. Gergő.",
+        images: [
+            "alomparos/3e714c00-e7f3-47a0-9a07-56e0cb7db9a2.jpg",
+            "alomparos/20240805_182558.jpg",
+            "az_eleje/received_243779175082781.jpeg",
+            "az_eleje/20240420_091209.jpg",
+            "2.5_randi/IMG_5301.jpg",
+            "roma/IMG_2980.jpg",
+            "francia/IMG_1449.jpg",
+            "praga/20250424_115714.jpg",
+            "horvatorszag/20240801_204635.jpg",
+            "osszejottunk/IMG_0305.jpg"
+        ]
+    },
+
+    "horvat-2026": {
+        coords: [43.313862, 17.014384],
+        title: "Horvátország 2026",
+        text: "Szia Zsófi,\t szerintem nagyonnagyon jól sikerült ez a nyaralás és jól éreztem magam nagyon veled.\t Olyan jó, hogy ilyenekre el tudunk menni és amúgy az is tetszik, hogy ilyenkor sok minden jön fel és ezeket megbeszéljük és megoldjuk.\t Egyébként ha vevő lennél rá, én el szeretnék veled kezdeni egy olyasmi könyvet mint amit csináltunk régen, tudod irogattuk a dolgainkat.\t csak kicsit tudatosabban szeretném vinni a dolgokat és a legtöbbet kihozni belőlünk, nagyon szeretlek.\t De így röviden, én még mindíg imádok veled tengerpartozni, suppozni, búvárkodni és hülyéskedni.\t Veled vagyok a legboldogabb, csak tudd.\t úgyhogy nagyon köszönöm, hogy elvittetek és ennyi minden jót csináltunk és finomakat ettünk.\t Itt is nagyon sajnálom, hogy rövidre kell húznom, de befejezem minél hamarabb. nagyon szeretlek,\t gergő",
+        images: [
+            "horvat-2026/IMG_3495.jpg",
+            "horvat-2026/IMG_3514.jpg",
+            "horvat-2026/IMG_3516.jpg",
+            "horvat-2026/IMG_3521.jpg",
+            "horvat-2026/IMG_3533.jpg",
+            "horvat-2026/IMG_3539.jpg",
+            "horvat-2026/IMG_3541.jpg",
+            "horvat-2026/IMG_3543.jpg",
+            "horvat-2026/IMG_3553.jpg",
+            "horvat-2026/IMG_3559.jpg",
+            "horvat-2026/IMG_3574.jpg",
+            "horvat-2026/IMG_3583.jpg",
+            "horvat-2026/IMG_3597.jpg",
+            "horvat-2026/IMG_3614.jpg",
+            "horvat-2026/IMG_3615.jpg",
+            "horvat-2026/IMG_3633.jpg",
+            "horvat-2026/IMG_3640.jpg",
+            "horvat-2026/IMG_3659.jpg"
+        ]
+    },
+
+    // A titkos oldalakat itt tudod szerkeszteni: módosítsd a title és text értékeket.
+    "nosztalgia": {
+        title: "NOSZTALGIA",
+        text: "Ide írd a nosztalgiaoldal szövegét.",
+        images: []
+    },
+
+    "gombóckám": {
+        title: "GOMBÓCKÁM",
+        text: "Ide írd a Gombóckám oldal szövegét.",
+        images: []
+    }
 };
+
+const secretPageIds = new Set(['nosztalgia', 'gombóckám']);
+const publicPageKeys = Object.keys(database).filter(key => !secretPageIds.has(key));
 
 // --- LOGIKA  ---
 
 let currentImages = []; 
 let currentIndex = 0;   
-
-function searchKeyword() {
-    // Kisbetűssé alakítjuk és leszedjük a felesleges szóközöket
-    const input = document.getElementById('searchInput').value.trim().toLowerCase();
-    const errorMsg = document.getElementById('error-message');
-    
-    console.log("Beírt szó:", input); // Ez segít nekünk debuggolni
-
-    // 1. Speciális eset: A TÉRKÉP
-    if (input === "térképünk") {
-        console.log("Irány a térkép!");
-        window.location.href = "map.html";
-        return; // Kilépünk a függvényből, hogy ne keressen tovább
-    }
-
-    // 2. Normál eset: Helyszínek az adatbázisból
-    if (database[input]) {
-        window.location.href = `result.html?id=${encodeURIComponent(input)}`;
-    } else {
-        // 3. Ha semmi nem stimmel
-        errorMsg.textContent = "Nincs találat. Biztos jól írtad? (Próbáld: térképünk)";
-    }
-}
-
-// Enter gomb figyelése (marad a régi, de ellenőrizd, hogy benne van-e)
-const inputField = document.getElementById("searchInput");
-if (inputField) {
-    inputField.addEventListener("keypress", function(event) {
-        if (event.key === "Enter") {
-            searchKeyword();
-        }
-    });
-}
 
 function loadResult() {
     const params = new URLSearchParams(window.location.search);
@@ -251,25 +313,29 @@ function loadResult() {
         document.getElementById('resultTitle').textContent = data.title;
         document.getElementById('resultText').textContent = data.text;
 
-        
-        if (Array.isArray(data.images)) {
+        const imageContainer = document.querySelector('.image-container');
+
+        if (Array.isArray(data.images) && data.images.length > 0) {
             // -- GALÉRIA MÓD --
             currentImages = data.images;
             currentIndex = 0;
+            imageContainer.style.display = 'flex';
             
             document.querySelector('.prev-btn').style.display = 'block';
             document.querySelector('.next-btn').style.display = 'block';
             document.getElementById('image-counter').style.display = 'block';
             
             updateImage();
-        } else {
+        } else if (data.image) {
             // -- SIMA KÉP MÓD --
-            const imgSrc = data.image || data.images; 
-            document.getElementById('resultImage').src = imgSrc;
+            imageContainer.style.display = 'flex';
+            document.getElementById('resultImage').src = data.image;
             
             document.querySelector('.prev-btn').style.display = 'none';
             document.querySelector('.next-btn').style.display = 'none';
             document.getElementById('image-counter').style.display = 'none';
+        } else {
+            imageContainer.style.display = 'none';
         }
 
     } else {
@@ -331,32 +397,192 @@ function updateImage() {
 }
 
 // --- LISTA AUTOMATIKUS FELTÖLTÉSE ---
+function normalizeKeyword(value) {
+    return value
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .trim();
+}
+
+function formatKeywordLabel(key) {
+    return key
+        .split(/\s+/)
+        .filter(Boolean)
+        .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+        .join(' ');
+}
+
 function setupDatalist() {
     const list = document.getElementById('keyword-list');
-    if (!list) return;
+    const inputField = document.getElementById('searchInput');
+    if (!list || !inputField) return;
 
-    // Végigmegyünk az adatbázis kulcsain (prága, bécs, stb.)
-    Object.keys(database).forEach(key => {
-        // Létrehozunk egy új opciót a listához
-        const option = document.createElement('option');
-        option.value = key; // Ez lesz az érték, amit beír a mezőbe
+    list.innerHTML = '';
+    publicPageKeys.forEach(key => {
+        const option = document.createElement('button');
+        option.type = 'button';
+        option.className = 'keyword-option';
+        option.setAttribute('role', 'option');
+        option.textContent = formatKeywordLabel(key);
+        option.addEventListener('click', () => {
+            inputField.value = key;
+            closeKeywordList();
+        });
         list.appendChild(option);
     });
 }
 
-// Amint betölt az oldal, készítse el a listát
-window.addEventListener('DOMContentLoaded', setupDatalist);
+function openKeywordList() {
+    const list = document.getElementById('keyword-list');
+    const inputField = document.getElementById('searchInput');
+    if (!list || !inputField) return;
 
-// A searchKeyword függvényed maradhat a legutóbbi (ami kezeli a térképet is):
-function searchKeyword() {
-    const input = document.getElementById('searchInput').value.trim().toLowerCase();
-    const errorMsg = document.getElementById('error-message');
+    list.hidden = false;
+    inputField.setAttribute('aria-expanded', 'true');
+}
 
-    if (input === "térképünk") {
-        window.location.href = "map.html";
-    } else if (database[input]) {
-        window.location.href = `result.html?id=${encodeURIComponent(input)}`;
-    } else {
-        errorMsg.textContent = "Nincs ilyen emlékünk... Próbáld a listából!";
+function closeKeywordList() {
+    const list = document.getElementById('keyword-list');
+    const inputField = document.getElementById('searchInput');
+    if (!list || !inputField) return;
+
+    list.hidden = true;
+    inputField.setAttribute('aria-expanded', 'false');
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    setupDatalist();
+    setupSecretKeyword();
+
+    const inputField = document.getElementById('searchInput');
+    if (!inputField) return;
+
+    inputField.addEventListener('focus', openKeywordList);
+    inputField.addEventListener('click', openKeywordList);
+    inputField.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault();
+            searchKeyword();
+        } else if (event.key === 'Escape') {
+            closeKeywordList();
+        }
+    });
+
+    inputField.addEventListener('input', () => {
+        const errorMsg = document.getElementById('error-message');
+        if (errorMsg) {
+            errorMsg.textContent = '';
+        }
+        openKeywordList();
+    });
+
+    document.addEventListener('click', event => {
+        if (!event.target.closest('.search-container')) {
+            closeKeywordList();
+        }
+    });
+});
+
+function setupSecretKeyword() {
+    const starButton = document.getElementById('secret-star');
+    const dialog = document.getElementById('secret-dialog');
+    const form = document.getElementById('secret-form');
+    const input = document.getElementById('secret-keyword');
+    const errorMessage = document.getElementById('secret-error');
+    const closeButton = document.getElementById('secret-dialog-close');
+
+    if (!starButton || !dialog || !form || !input || !errorMessage || !closeButton) return;
+
+    const closeDialog = () => {
+        dialog.hidden = true;
+        starButton.focus();
+    };
+
+    starButton.addEventListener('click', () => {
+        dialog.hidden = false;
+        errorMessage.textContent = '';
+        input.value = '';
+        input.focus();
+    });
+
+    closeButton.addEventListener('click', closeDialog);
+
+    dialog.addEventListener('click', event => {
+        if (event.target === dialog) closeDialog();
+    });
+
+    dialog.addEventListener('keydown', event => {
+        if (event.key === 'Escape') closeDialog();
+    });
+
+    form.addEventListener('submit', event => {
+        event.preventDefault();
+
+        const keyword = normalizeKeyword(input.value);
+        const secretPages = {
+            [normalizeKeyword('NOSZTALGIA')]: 'nosztalgia',
+            [normalizeKeyword('GOMBÓCKÁM')]: 'gombóckám'
+        };
+        const pageId = secretPages[keyword];
+
+        if (pageId) {
+            window.location.href = `result.html?id=${encodeURIComponent(pageId)}`;
+            return;
+        }
+
+        errorMessage.textContent = 'Ez a szó most nem nyitja ki a titkos oldalt.';
+        input.focus();
+    });
+}
+
+function findBestKeywordMatch(input) {
+    const normalizedInput = normalizeKeyword(input);
+    if (!normalizedInput) return null;
+
+    if (normalizedInput === normalizeKeyword('térképünk')) {
+        return 'térképünk';
     }
+
+    const exactKey = publicPageKeys.find(key => normalizeKeyword(key) === normalizedInput);
+    if (exactKey) {
+        return exactKey;
+    }
+
+    const singleMatch = publicPageKeys.filter(key => normalizeKeyword(key).includes(normalizedInput));
+    if (singleMatch.length === 1) {
+        return singleMatch[0];
+    }
+
+    return null;
+}
+
+function searchKeyword() {
+    const inputField = document.getElementById('searchInput');
+    const errorMsg = document.getElementById('error-message');
+    if (!inputField) return;
+
+    const typedValue = inputField.value.trim();
+    const normalizedInput = normalizeKeyword(typedValue);
+
+    if (!normalizedInput) {
+        errorMsg.textContent = 'Írj be egy nevet, vagy válassz a listából!';
+        return;
+    }
+
+    if (normalizedInput === normalizeKeyword('térképünk')) {
+        window.location.href = 'map.html';
+        return;
+    }
+
+    const matchedKey = findBestKeywordMatch(typedValue);
+
+    if (!matchedKey) {
+        errorMsg.textContent = 'Nincs ilyen emlékünk... Válassz a javaslatokból, vagy írj be egy pontosabb nevet!';
+        return;
+    }
+
+    inputField.value = matchedKey;
+    errorMsg.textContent = '';
+    window.location.href = `result.html?id=${encodeURIComponent(matchedKey)}`;
 }
