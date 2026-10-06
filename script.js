@@ -419,7 +419,7 @@ function setupDatalist() {
     if (!list || !inputField) return;
 
     list.innerHTML = '';
-    publicPageKeys.forEach(key => {
+    [...publicPageKeys, 'térképünk'].forEach(key => {
         const option = document.createElement('button');
         option.type = 'button';
         option.className = 'keyword-option';

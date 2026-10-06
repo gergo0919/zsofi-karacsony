@@ -7,10 +7,9 @@
 // [47.5, 18.5] - Magyarország környéki kezdőpont, 5-ös zoom szinttel
 const map = L.map('map').setView([47.5, 18.5], 5); 
 
-// 2. Térkép kinézetének beállítása (CartoDB Voyager - megbízható és szép)
-L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: 'abcd',
+// 2. Kulcs nélküli OpenStreetMap csempék
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 20
 }).addTo(map);
 
